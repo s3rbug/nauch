@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MenuIconLive.qml</file>
+        <file>qml/MainMenu.qml</file>
+        <file>qml/MyPage.qml</file>
+        <file>qml/PageAbout.qml</file>
+        <file>qml/PageAlgebra.qml</file>
+        <file>qml/PageExit.qml</file>
+        <file>qml/qtquickcontrols2.conf</file>
+        <file>qml/PagePaint.qml</file>
+        <file>qml/PagePaintGenerator.qml</file>
+        <file>qml/Model.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/PageXO.qml</file>
+    </qresource>
+</RCC>

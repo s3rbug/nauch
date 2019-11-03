@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/shadow_long.png</file>
+        <file>images/shadow_title.png</file>
+        <file>images/icon_game.png</file>
+        <file>images/icon_info.png</file>
+        <file>images/icon_settings.png</file>
+        <file>images/background.jpg</file>
+        <file>images/icon_exit.png</file>
+        <file>images/icon_tiger.png</file>
+        <file>images/icon_tig.png</file>
+        <file>images/icon_elephant.png</file>
+        <file>images/icon_elephant2.png</file>
+        <file>images/icon_add.png</file>
+        <file>images/icon_plus.png</file>
+        <file>images/icon_plus2.png</file>
+        <file>images/icon_painter.png</file>
+        <file>images/icon_painterGenerator.png</file>
+        <file>images/icon_XO.png</file>
+        <file>images/icon_prog.ico</file>
+        <file>images/icon_veg2.png</file>
+        <file>images/icon_veg3.png</file>
+        <file>images/icon_veg4.png</file>
+        <file>images/icon_veg1.png</file>
+        <file>images/icon_veg5.png</file>
+    </qresource>
+</RCC>
