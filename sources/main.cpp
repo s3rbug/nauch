@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
     QApplication app(argc, argv);
     app.setOrganizationName("Любомльська гімназія");
     app.setOrganizationDomain("http://gymnasia-luboml.ucoz.ua/");
-    app.setApplicationName("Наукова робота");
+    app.setApplicationName("Програма");
 
 
     QQuickStyle::setStyle("Material");
