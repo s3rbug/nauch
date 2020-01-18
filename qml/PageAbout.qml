@@ -6,12 +6,13 @@ MyPage {
     id: pageSettings
 
     title: qsTr("Інфо")
-
+    property string link: "https://github.com/s3rbug/nauch"
     Text {
         text: "Version: 1.0 (user setup)<br>
 Date: 2019-05-01<br>
 Qt: " + qtversion + "<br>
-<a href='https://github.com/s3rbug'>Source code</a>"
+<a href='https://github.com/s3rbug/nauch'>Source code</a>"
+        onLinkActivated: Qt.openUrlExternally(link)
         anchors.fill: parent
         font.pixelSize: 60
         minimumPixelSize: 5
